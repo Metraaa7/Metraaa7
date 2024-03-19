@@ -7,7 +7,7 @@ Junior Full-Stack Developer
 Stack on my work - Laravel, PostgreSQL, JS(VANILLA, JQUERY)
 -------------
 
-Hi, I'm Artem Lisieienko or Metraaa7, for your taste. I'm a junior laravel developer, and I realize, your backend part of web-aplications, in web life. Now I`m working and studying there so fast, so my dream will become a master in my work asap!
+Hello, I'm Artem Liseenko or Metraaa7, depending on your taste. I'm a junior Laravel developer and can help you bring your web application backend to web life. Now I work and learn so quickly that my dream is to become a master of my craft as soon as possible!
 
 * ✉️  You can contact me at [liseenko.artem@gmail.com](mailto:liseenko.artem@gmail.com) or in Telegram - @metra77
 * 🧠  I'm learning python too!
