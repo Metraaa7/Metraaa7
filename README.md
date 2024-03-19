@@ -9,7 +9,7 @@ Stack on my work - Laravel, PostgreSQL, JS(VANILLA, JQUERY)
 
 Hi, I'm Artem Lisieienko or Metraaa7, for your taste. I'm a junior laravel developer, and I realize, your backend part of web-aplications, in web life. Now I`m working and studying there so fast, so my dream will become a master in my work asap!
 
-* ✉️  You can contact me at [liseenko.artem@gmail.com](mailto:liseenko.artem@gmail.com) or in Telegram @metra77
+* ✉️  You can contact me at [liseenko.artem@gmail.com](mailto:liseenko.artem@gmail.com) or in Telegram - @metra77
 * 🧠  I'm learning python too!
 * 🦀  I'm working now!
 
