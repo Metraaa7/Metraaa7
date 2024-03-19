@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full-Stack Developer 
 -------------
 
-Stack om my work - Laravel, PostgreSQL, JS(VUE, VANILLA, REACT, JQUERY)
+Stack on my work - Laravel, PostgreSQL, JS(VUE, VANILLA, REACT, JQUERY)
 -------------
 
 Hi, I'm Artem Lisieienko or Metraaa7, for your taste. I'm a junior laravel developer, and I realize, your backend part of web-aplications, in web life. Now I`m working and studying there so fast, so my dream will become a master in my work asap!
@@ -12,9 +12,6 @@ Hi, I'm Artem Lisieienko or Metraaa7, for your taste. I'm a junior laravel devel
 * ✉️  You can contact me at [liseenko.artem@gmail.com](mailto:liseenko.artem@gmail.com)
 * 🧠  I'm learning python too!
 * 🦀  I'm working now!
-
-<a href="https://www.github.com/Karavang" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Karavang?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 <p align="left">
