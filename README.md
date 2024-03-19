@@ -1,4 +1,20 @@
-###  👋Hi, I`m Artem Lisieienko or Metraaa7, for your taste. I`m a junior laravel developer, and I realize, your backend part of web-aplications, in web life. Now I`m working and studying there so fast, so my dream will become a master in my work asap!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Artem Lisieienko
+========================================================================================================================================
+
+Junior Full-Stack Developer 
+-------------
+
+Stack om my work - Laravel, PostgreSQL, JS(VUE, VANILLA, REACT, JQUERY)
+-------------
+
+Hi, I'm Artem Lisieienko or Metraaa7, for your taste. I'm a junior laravel developer, and I realize, your backend part of web-aplications, in web life. Now I`m working and studying there so fast, so my dream will become a master in my work asap!
+
+* ✉️  You can contact me at [liseenko.artem@gmail.com](mailto:liseenko.artem@gmail.com)
+* 🧠  I'm learning python too!
+* 🦀  I'm working now!
+
+<a href="https://www.github.com/Karavang" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Karavang?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 <p align="left">
@@ -38,6 +54,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 </a>
