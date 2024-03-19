@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full-Stack Developer 
 -------------
 
-Stack on my work - Laravel, PostgreSQL, JS(VUE, VANILLA, REACT, JQUERY)
+Stack on my work - Laravel, PostgreSQL, JS(VANILLA, JQUERY)
 -------------
 
 Hi, I'm Artem Lisieienko or Metraaa7, for your taste. I'm a junior laravel developer, and I realize, your backend part of web-aplications, in web life. Now I`m working and studying there so fast, so my dream will become a master in my work asap!
